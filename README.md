@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./duanzai.png" alt="icon" style="width: 150px; height: 200px;"/>
-</div>
 
 
 <h1 align="center">ChatDAI: Chat DuanzAI</h1>
@@ -13,5 +12,6 @@ A ChatBot application based on DuanzAI that can understand Chinese slang humor.
   <a href="http://8.130.135.0">Demo</a>
 </h1>
 
+</div>
 
 <iframe src="http://8.130.135.0/" width="100%" height="800" frameborder="0"></iframe>
