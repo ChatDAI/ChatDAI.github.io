@@ -6,7 +6,7 @@
 
 <p> A ChatBot application based on DuanzAI that can understand Chinese slang humor.</p>
 
-<p>基于DuanzAI的一款可以理解中文俚语幽默的 ChatBot 应用。</p>
+<p>一款基于DuanzAI的中文俚语幽默理解 ChatBot 应用。</p>
 
 <h1 align="center">
   <a href="http://8.130.135.0">Demo</a>
