@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./duanzai.png" alt="icon" style="width: 150px; height: 200px;"/>
+  <img src="./duanzai.png" alt="icon" style="width: 150px; height: 150px;"/>
 
 
 <h1 align="center">ChatDAI: Chat DuanzAI</h1>
