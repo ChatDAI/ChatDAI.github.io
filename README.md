@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./duanzai.png" alt="icon" style="width: 100px; height: 100px;"/>
+  <img src="./duanzai.png" alt="icon" style="width: 150px; height: 200px;"/>
 </div>
 
 
